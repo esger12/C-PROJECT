@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SERVICE\SERVICE\bin\Debug\SERVICE.exe.config
+C:\Users\User\source\repos\SERVICE\SERVICE\bin\Debug\SERVICE.exe
+C:\Users\User\source\repos\SERVICE\SERVICE\bin\Debug\SERVICE.pdb
+C:\Users\User\source\repos\SERVICE\SERVICE\obj\Debug\SERVICE.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SERVICE\SERVICE\obj\Debug\SERVICE.Properties.Resources.resources
+C:\Users\User\source\repos\SERVICE\SERVICE\obj\Debug\SERVICE.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SERVICE\SERVICE\obj\Debug\SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SERVICE\SERVICE\obj\Debug\SERVICE.exe
+C:\Users\User\source\repos\SERVICE\SERVICE\obj\Debug\SERVICE.pdb
+C:\Users\User\source\repos\SERVICE\SERVICE\obj\Debug\SERVICE.ADMIN.resources
+C:\Users\User\source\repos\SERVICE\SERVICE\obj\Debug\SERVICE.CUSTOMER.resources
